@@ -4,10 +4,10 @@ import { AudienceSection } from './audience-section';
 import { useState } from 'react';
 
 interface AudienceTabsProps {
-  selectedMessage?: string;
+  selectedCoreMessageId?: string;
 }
 
-export function AudienceTabs({ selectedMessage }: AudienceTabsProps) {
+export function AudienceTabs({ selectedCoreMessageId }: AudienceTabsProps) {
   const [activeTab, setActiveTab] = useState<string>(AUDIENCES[0].id);
 
   return (
@@ -33,7 +33,7 @@ export function AudienceTabs({ selectedMessage }: AudienceTabsProps) {
           <TabsContent key={audience.id} value={audience.id}>
             <AudienceSection 
               audience={audience} 
-              focusMessageId={selectedMessage ? parseInt(selectedMessage) : undefined} 
+              focusCoreMessageId={selectedCoreMessageId ? parseInt(selectedCoreMessageId) : undefined} 
             />
           </TabsContent>
         ))}

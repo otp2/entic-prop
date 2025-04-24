@@ -11,38 +11,38 @@ export const COLORS = {
 export const CORE_MESSAGES = [
   {
     id: 1,
-    title: "A Better Whole-Person Approach",
-    description: "We provide integrated physical and mental health treatment through our network of trusted providers.",
-    whatItMeans: "We coordinate care between physical and mental health providers to treat the whole person.",
-    whyItMatters: "Disconnected care leads to worse outcomes, making integrated treatment essential for true health improvement.",
-    relatedTo: "Original Message 1 & 3",
+    title: "Comprehensive, connected care for your mental health journey",
+    description: "We provide a full continuum of mental health care, all working together seamlessly within the Endeavor Health system.",
+    whatItMeans: "We provide a full continuum of mental health care, all working together seamlessly within the Endeavor Health system.",
+    whyItMatters: "People seeking care, and the providers who refer them, need to know we can be there to support them (or their patients) at every turn in their recovery path, without the added stress of navigating fragmented systems.",
+    relatedTo: "Original Messages #2 and #5",
     audiences: ["patients", "pcps", "therapists", "internal"]
   },
   {
     id: 2,
-    title: "Evidence-Based Collaborative Care",
-    description: "We implement proven collaborative care models that improve clinical outcomes.",
-    whatItMeans: "Our approach is grounded in research-validated methods that show measurable improvements in patient health.",
-    whyItMatters: "Traditional disconnected care models don't achieve the same level of clinical improvement our approach provides.",
-    relatedTo: "Original Message 2 & 5",
+    title: "Expert, compassionate care tailored to your unique needs",
+    description: "Our team of highly qualified specialists delivers care grounded in evidence-based practices, always with a personal, understanding approach.",
+    whatItMeans: "Our team of highly qualified specialists delivers care grounded in evidence-based practices, always with a personal, understanding approach.",
+    whyItMatters: "Patients and referring providers want to feel confident in the quality of care and trust that they or their patients will be treated with genuine empathy and deep expertise.",
+    relatedTo: "Original Messages #3 and #4",
     audiences: ["patients", "pcps", "therapists", "internal"]
   },
   {
     id: 3,
-    title: "Accessible & Personalized Treatment",
-    description: "We make quality care more accessible through flexible options tailored to individual needs.",
-    whatItMeans: "We provide multiple pathways to care that adapt to patient preferences, schedules, and clinical needs.",
-    whyItMatters: "Standard one-size-fits-all approaches create barriers that prevent many people from getting needed care.",
-    relatedTo: "Original Message 4",
+    title: "Easy access to the right support, right when you need it",
+    description: "We make the process of getting started simple, helping you connect with the appropriate level of care and specialists across our extensive network of convenient locations.",
+    whatItMeans: "We make the process of getting started simple, helping you connect with the appropriate level of care and specialists across our extensive network of convenient locations.",
+    whyItMatters: "Finding behavioral healthcare can feel overwhelming. We focus on removing those hurdles and ensuring timely access to care.",
+    relatedTo: "Original Message #1, incorporating elements of Original Message #5",
     audiences: ["patients", "pcps", "therapists", "internal"]
   },
   {
     id: 4,
-    title: "Measurable Health Improvements",
-    description: "We track progress through objective measurements to ensure patients achieve meaningful health improvements.",
-    whatItMeans: "We use validated assessment tools to monitor patient progress and adjust treatment as needed.",
-    whyItMatters: "Measurement-based care identifies what's working and what needs adjustment to achieve the best outcomes.",
-    relatedTo: "Original Message 5",
+    title: "We're here for Illinois: trusted behavioral health expertise woven into our communities",
+    description: "As the largest integrated behavioral health network in Illinois, we have a significant reach and a genuine commitment to serving the diverse needs of communities across the state.",
+    whatItMeans: "As the largest integrated behavioral health network in Illinois, we have a significant reach and a commitment to serving communities across the Chicagoland.",
+    whyItMatters: "This highlights our scale, accessibility, and dedication to the people of Illinois, building trust and affirming our role as a leading provider.",
+    relatedTo: "Recurring theme supported by stats and PPTs",
     audiences: ["patients", "pcps", "therapists", "internal"]
   }
 ];
@@ -56,50 +56,51 @@ export const AUDIENCES = [
     messageDetails: {
       1: {
         supportingPoints: [
-          { point: "Your physical and mental health are connected, and we treat them together", source: "Original Message 1" },
-          { point: "Your primary care provider and therapist work as a team", source: "Original Message 3" },
-          { point: "You'll have one coordinated treatment plan, not separate disconnected ones", source: "Original Message 1" }
+          { point: "We offer all levels of care, from inpatient support to outpatient therapy and medication management, so you can get the specific support you need as you move forward." },
+          { point: "Your care is connected within the Endeavor Health system, which means your treatment plan stays coordinated and everyone is on the same page." },
+          { point: "Think of it like healing from a physical injury – you wouldn't go straight from a cast to running a marathon. We're here to support each step of your recovery journey." }
         ],
         audienceLanguage: [
-          "Our care team works together to help you feel better in both body and mind",
-          "No more explaining your story multiple times to different providers",
-          "Your doctors talk to each other so you get the right care at the right time"
+          "We're with you every step of the way, offering different kinds of support as you heal and grow.",
+          "All your care is connected right here, making things easier for you.",
+          "It's okay to take the time you need. We have programs designed to fit where you are in your journey."
         ]
       },
       2: {
         supportingPoints: [
-          { point: "Our methods are based on research showing what truly works", source: "Original Message 2" },
-          { point: "Our collaborative approach has been proven to work better than traditional care", source: "Original Message 5" },
-          { point: "We continuously measure your progress to make sure you're improving", source: "Original Message 2" }
+          { point: "Our team includes specialists experienced in many areas, like anxiety, depression, substance use, and eating disorders." },
+          { point: "You'll receive care from certified and licensed professionals who understand what you're going through." },
+          { point: "Our patients often see significant progress, with real improvements in symptoms of anxiety and depression." },
+          { point: "We are recognized for maintaining high standards of care and creating a positive patient experience." }
         ],
         audienceLanguage: [
-          "Our approach has been shown to help people feel better faster",
-          "We use methods that have been scientifically proven to work",
-          "You'll have a team of experts using the most effective approaches for your care"
+          "Our experts specialize in helping people facing challenges just like yours.",
+          "You can feel confident you're in good hands with our caring and qualified team.",
+          "Our focus is on helping you feel better and build skills that last."
         ]
       },
       3: {
         supportingPoints: [
-          { point: "Choose from in-person, video, or messaging options", source: "Original Message 4" },
-          { point: "Your care adapts to your life, not the other way around", source: "Original Message 4" },
-          { point: "Get care that fits your schedule and preferences", source: "Original Message 4" }
+          { point: "Getting started is designed to be simple through our assessment and referral process." },
+          { point: "We'll help you figure out the best starting point and care plan – you don't need to have it all figured out beforehand." },
+          { point: "We accept most insurance plans and can guide you through the details." }
         ],
         audienceLanguage: [
-          "Care that fits into your life, not the other way around",
-          "Multiple ways to connect with your care team",
-          "Get help your way - whether that's in person, by video, or through messages"
+          "Ready to explore support? We make it easy to take that first step.",
+          "Please don't worry about knowing exactly what you need – we're here to help you find the right fit.",
+          "We work with most insurance plans, so you can focus your energy on feeling better."
         ]
       },
       4: {
         supportingPoints: [
-          { point: "Regular check-ins to track your progress", source: "Original Message 5" },
-          { point: "Treatment that adjusts based on how you're doing", source: "Original Message 5" },
-          { point: "Clear goals and ways to measure improvement", source: "Original Message 5" }
+          { point: "We are a part of Endeavor Health, a large, trusted hospital system right here in Illinois." },
+          { point: "We have locations and serve individuals across the entire state of Chicagoland." },
+          { point: "Our services blend the personal feel of local care with the deep resources of a large system." }
         ],
         audienceLanguage: [
-          "We'll regularly check how you're feeling to make sure you're getting better",
-          "Your treatment plan will change based on what's working for you",
-          "You'll see your progress over time with regular check-ins"
+          "We're proud to be part of Endeavor Health, a name you can trust for your health needs.",
+          "Care is often close to home, with locations conveniently located throughout Illinois.",
+          "You really get the best of both worlds – caring local support backed by a major health system."
         ]
       }
     }
@@ -107,109 +108,110 @@ export const AUDIENCES = [
   {
     id: "pcps",
     name: "Primary Care Providers",
-    description: "Physicians and clinicians providing primary care",
+    description: "Healthcare professionals referring patients for behavioral health services",
     messageDetails: {
       1: {
         supportingPoints: [
-          { point: "Integrated care model reduces burden on PCPs", source: "Original Message 1" },
-          { point: "Direct communication channels with mental health specialists", source: "Original Message 3" },
-          { point: "Shared treatment plans visible to all providers", source: "Original Message 3" }
+          { point: "We offer a complete continuum of care, facilitating smooth, seamless transitions for your patients between levels like PHP and IOP." },
+          { point: "Integrated care management keeps everything within a single medical record, greatly simplifying coordination and communication back to your practice." },
+          { point: "We have a dedicated behavioral health navigator service specifically designed to simplify the referral process and ensure rapid access to assessments." }
         ],
         audienceLanguage: [
-          "Seamless referrals and ongoing collaboration with mental health specialists",
-          "Reduce your administrative burden with our integrated care team",
-          "Stay informed about your patients' mental health treatment without additional time demands"
+          "Easily refer your patients for the full range of behavioral health care they need, with smooth, integrated transitions within our system.",
+          "Our integrated records mean less administrative burden for you and better, more informed care for your patients.",
+          "Our behavioral health navigators are your dedicated resource for straightforward, fast referrals."
         ]
       },
       2: {
         supportingPoints: [
-          { point: "Our model follows IMPACT collaborative care guidelines", source: "Original Message 2" },
-          { point: "Regular case consultations with psychiatric specialists", source: "Original Message 2" },
-          { point: "Evidence-based screening and assessment tools", source: "Original Message 5" }
+          { point: "Our team includes board-certified psychiatrists and licensed clinical specialists covering all key behavioral health disciplines." },
+          { point: "We offer specialized programs designed for complex conditions like eating disorders, substance use, and trauma." },
+          { point: "We consistently deliver clinically significant outcomes across a wide range of conditions we treat." },
+          { point: "We are a reputable, fully accredited partner you can trust for your behavioral health referrals." }
         ],
         audienceLanguage: [
-          "Implement the gold standard in collaborative care with minimal practice disruption",
-          "Access to psychiatric consultation without lengthy referral processes",
-          "Evidence-based protocols that integrate with your existing workflow"
+          "Refer with full confidence to our team of certified specialists who are equipped to manage a wide spectrum of behavioral health needs.",
+          "Our evidence-based programs consistently demonstrate measurable improvements in patient outcomes.",
+          "Partner with us – a trusted, accredited provider dedicated to excellent behavioral healthcare."
         ]
       },
       3: {
         supportingPoints: [
-          { point: "Multiple referral and consultation options", source: "Original Message 4" },
-          { point: "Flexible scheduling for warm handoffs and joint sessions", source: "Original Message 4" },
-          { point: "Patient-centered care coordination", source: "Original Message 4" }
+          { point: "Our expert assessment team efficiently determines the appropriate level of care, significantly simplifying the referral process for your practice." },
+          { point: "We accept most major commercial insurance plans, Medicare, and Medicaid, making access easier for your patients." },
+          { point: "We provide 24/7 crisis assessment services for urgent situations." }
         ],
         audienceLanguage: [
-          "Give your patients options that fit their needs and preferences",
-          "Streamlined referral process that reduces administrative burden",
-          "Care coordination that respects both provider and patient time constraints"
+          "Simply refer your patients to us; our assessment team will handle finding the precise level of care they require.",
+          "Access to care is made easy for your patients, supported by our broad insurance acceptance.",
+          "For any urgent behavioral health needs, please know we offer 24/7 crisis assessment availability."
         ]
       },
       4: {
         supportingPoints: [
-          { point: "Regular outcomes reporting for referred patients", source: "Original Message 5" },
-          { point: "Standardized metrics across physical and mental health", source: "Original Message 5" },
-          { point: "Treatment algorithms adjusted based on patient progress", source: "Original Message 5" }
+          { point: "We represent the largest integrated behavioral health network in Illinois, offering substantial geographic reach." },
+          { point: "We've successfully cared for thousands of patients referred by healthcare professionals across the state." },
+          { point: "We are committed to fostering strong partnerships with referring providers right here in our shared communities." }
         ],
         audienceLanguage: [
-          "Receive regular updates on your patients' progress and outcomes",
-          "Monitor both physical and mental health improvements in one place",
-          "Evidence-based treatment adjustments based on measurement-based care"
+          "Partner with Illinois' most extensive behavioral health network to ensure comprehensive care options for your patients.",
+          "Join the thousands of healthcare professionals across the state who trust us with their patient referrals.",
+          "We see ourselves as your dedicated partner in delivering outstanding behavioral healthcare within our shared communities."
         ]
       }
     }
   },
   {
     id: "therapists",
-    name: "Therapists",
-    description: "Mental health professionals providing therapy services",
+    name: "Therapists & Counselors",
+    description: "Mental health professionals partnering with our services",
     messageDetails: {
       1: {
         supportingPoints: [
-          { point: "Direct communication with medical providers", source: "Original Message 1" },
-          { point: "Access to patients' physical health information", source: "Original Message 3" },
-          { point: "Collaborative treatment planning with medical team", source: "Original Message 3" }
+          { point: "We offer higher levels of care, including PHP and IOP, to provide essential support for your clients when they require more intensive treatment than outpatient settings can provide." },
+          { point: "We value your therapeutic relationship with your clients and are committed to referring them back to you for ongoing outpatient care once they've completed a higher level of treatment with us." },
+          { point: "Our integrated care approach ensures you receive timely updates on your client's progress while they are in our programs." }
         ],
         audienceLanguage: [
-          "Provide more effective therapy with insight into patients' complete health picture",
-          "Collaborate directly with medical providers for truly integrated care",
-          "Address both the physical and psychological factors affecting your patients"
+          "We can provide the intensive support your clients may need, allowing you to focus on their ongoing outpatient therapeutic journey.",
+          "We respect your relationship with your clients and work in partnership with you for smooth transitions back into your care.",
+          "Rest assured, you'll stay informed about your client's progress while they are participating in our programs."
         ]
       },
       2: {
         supportingPoints: [
-          { point: "Evidence-based therapeutic protocols", source: "Original Message 2" },
-          { point: "Regular case consultation with integrated team", source: "Original Message 2" },
-          { point: "Support for implementing measurement-based care", source: "Original Message 5" }
+          { point: "Your clients will receive care from certified and licensed specialists with expertise in a wide range of areas." },
+          { point: "Our use of evidence-based treatment modalities and programs consistently leads to clinically significant outcomes." },
+          { point: "We are a reputable and trusted partner within the behavioral health community for referrals." }
         ],
         audienceLanguage: [
-          "Join a practice model validated by extensive clinical research",
-          "Receive support implementing evidence-based protocols that improve outcomes",
-          "Collaborate with a multidisciplinary team for complex case management"
+          "Refer your clients to specialists you can trust to provide excellent, evidence-based care.",
+          "Our proven outcomes complement and enhance the valuable work you do in outpatient therapy.",
+          "Partner with us as a reputable provider for those times when your clients need a higher level of care."
         ]
       },
       3: {
         supportingPoints: [
-          { point: "Flexible practice options (in-person, telehealth, hybrid)", source: "Original Message 4" },
-          { point: "Technology support for various care modalities", source: "Original Message 4" },
-          { point: "Patient-centered scheduling and communication", source: "Original Message 4" }
+          { point: "Our experienced clinical assessment team expertly handles the entire intake process, including insurance verification, making the referral process straightforward for you." },
+          { point: "You don't need to pinpoint the exact program needed; we conduct the assessment and ensure clients are placed in the most appropriate level of care for their situation." },
+          { point: "We have 24/7 crisis assessment available to support your clients in urgent situations." }
         ],
         audienceLanguage: [
-          "Practice in ways that work best for you and your patients",
-          "Technology and support for multiple therapeutic modalities",
-          "Flexible scheduling options that respect your professional boundaries"
+          "Making a referral is designed to be easy – our dedicated team manages the assessment and placement process.",
+          "We aim to simplify the administrative process so you can dedicate your focus to your crucial clinical work.",
+          "Know that we are here 24/7, available for crisis assessments when your clients require immediate support."
         ]
       },
       4: {
         supportingPoints: [
-          { point: "Integrated assessment and outcomes tracking", source: "Original Message 5" },
-          { point: "Structured supervision and case consultation", source: "Original Message 5" },
-          { point: "Data-driven treatment adjustments", source: "Original Message 5" }
+          { point: "We are part of the largest integrated behavioral health network in Illinois." },
+          { point: "We serve individuals from every zip code across Illinois." },
+          { point: "Partnering with us gives your clients access to a broader network of care and resources available within the trusted Endeavor Health system." }
         ],
         audienceLanguage: [
-          "Streamlined outcomes measurement integrated into your workflow",
-          "See the concrete impact of your therapeutic interventions",
-          "Data-informed supervision and professional development"
+          "Partner with the largest behavioral health network in Illinois to significantly expand your clients' access to vital care.",
+          "Connect your clients to a trusted system with comprehensive resources spanning the entire state.",
+          "We are a reliable, committed partner dedicated to serving the mental health needs of our shared communities."
         ]
       }
     }
@@ -217,59 +219,91 @@ export const AUDIENCES = [
   {
     id: "internal",
     name: "Internal Staff",
-    description: "Staff members working within the organization",
+    description: "ARC, MDs, Directors, Staff from Merged Entities",
     messageDetails: {
       1: {
         supportingPoints: [
-          { point: "Our integrated model is our core differentiator", source: "Original Message 1" },
-          { point: "We've built systems to enable true collaborative care", source: "Original Message 3" },
-          { point: "Cross-disciplinary communication is essential to our model", source: "Original Message 3" }
+          { point: "Understanding our full continuum of care empowers all of us to place patients in the right level of care for their specific needs, which directly improves patient outcomes and overall satisfaction." },
+          { point: "Our integrated system means patient information is readily accessible, smoothing communication and coordination across all departments and locations." },
+          { point: "By working together seamlessly across levels of care, we create a significantly better experience for patients and their families, reducing confusion and stress for everyone involved." }
         ],
         audienceLanguage: [
-          "We're pioneering a better healthcare model that treats the whole person",
-          "Our systems and processes are designed to break down traditional silos",
-          "We measure our success by how well our teams collaborate across disciplines"
+          "(ARC Staff): Knowing all our program options inside and out helps us guide callers to the best starting point for them.",
+          "(Inpatient MDs): Smooth transitions to PHP/IOP mean our patients can continue their recovery journey with uninterrupted, coordinated support.",
+          "(Directors): Championing our continuum of care ensures we're providing appropriate, high-value treatment that serves our patients and our system.",
+          "(Staff from Merged Entities): Our merged system means we can now offer a wider, more comprehensive range of services to patients than ever before, accessible across all our locations. This is a real step forward."
         ]
       },
       2: {
         supportingPoints: [
-          { point: "Our methods are grounded in research and continuously refined", source: "Original Message 2" },
-          { point: "We implement collaborative care with fidelity to evidence-based models", source: "Original Message 5" },
-          { point: "Clinical excellence is our north star", source: "Original Message 2" }
+          { point: "Highlighting our specialized programs and the expertise of our staff not only attracts patients with diverse needs but also significantly strengthens our reputation as a leading provider in behavioral health." },
+          { point: "Our unwavering commitment to evidence-based practices and achieving positive patient outcomes reflects and reinforces the high quality of care delivered by every single staff member here." },
+          { point: "Emphasizing compassionate care is fundamental to Endeavor Health's core values and enhances both the patient and the staff experience within our system." }
         ],
         audienceLanguage: [
-          "We don't just say we're evidence-based - we implement with fidelity",
-          "Our clinical models are held to the highest standards of research validation",
-          "We regularly review and refine our approach based on outcomes data"
+          "(Therapists): You are the experts, on the front lines, delivering the high-quality, compassionate care that directly leads to our excellent patient outcomes. Your work is central.",
+          "(ARC Staff): You can speak with confidence to callers about our specialized programs and the impressive qualifications of our clinical team.",
+          "(Directors): Investing in our expert staff and upholding evidence-based programs is absolutely key to maintaining our clinical excellence and strengthening our position in the market.",
+          "(Staff from Merged Entities): We've brought together talented and compassionate professionals from across all our legacy systems to create an even stronger, more dynamic team together."
         ]
       },
       3: {
         supportingPoints: [
-          { point: "We prioritize patient preferences in care delivery", source: "Original Message 4" },
-          { point: "Our systems support multiple care modalities", source: "Original Message 4" },
-          { point: "We remove barriers to accessing appropriate care", source: "Original Message 4" }
+          { point: "A streamlined assessment and referral process directly benefits staff by making patient pathways clearer and optimizing how we use our valuable resources." },
+          { point: "Understanding insurance coverage and financial options empowers staff to guide patients more effectively and reduces unnecessary administrative hurdles for everyone." },
+          { point: "Promoting our 24/7 crisis access ensures our entire community knows we are a reliable resource during urgent situations, powerfully reinforcing our commitment to timely, critical care." }
         ],
         audienceLanguage: [
-          "We design our processes around patient needs, not administrative convenience",
-          "Our technology enables rather than restricts flexible care options",
-          "We continually identify and eliminate barriers to care"
+          "(ARC Staff): Our clear, streamlined intake process makes it easier for you to connect callers with the right help quickly and efficiently.",
+          "(Inpatient MDs): Knowing our expert assessment team can facilitate placement allows you to dedicate your focus to providing direct patient care.",
+          "(Staff from Merged Entities): One of the benefits of the merger is expanded access points for patients across the region, making it more convenient for people to find care closer to their homes and communities."
         ]
       },
       4: {
         supportingPoints: [
-          { point: "Measurement is integrated into all clinical workflows", source: "Original Message 5" },
-          { point: "We use data to drive continuous improvement", source: "Original Message 5" },
-          { point: "Transparency in outcomes is fundamental to our approach", source: "Original Message 5" }
+          { point: "Recognizing our position as the largest network in Illinois can instill a sense of pride and highlight the significant impact we have among all staff members." },
+          { point: "Understanding our broad reach and the diverse patient population we serve reinforces the critical importance of consistent messaging and delivering excellent service across all our locations." },
+          { point: "Highlighting our connection to the trusted Endeavor Health system provides a vital sense of stability and a unifying shared identity for staff from the merged entities." }
         ],
         audienceLanguage: [
-          "We define success by measurable improvements in patient health",
-          "Data drives our decisions at every level of the organization",
-          "We're transparent about our outcomes, both successes and areas for improvement"
+          "(All Staff): You are an essential part of the largest behavioral health network in Illinois – that is something to be proud of!",
+          "(Staff from Merged Entities): We are now part of a larger, unified family, bringing together the unique strengths and histories of our legacy organizations into something even greater.",
+          "(Directors): Our extensive network means we have the opportunity and capacity to reach and help even more people in need across our state."
         ]
       }
     }
   }
 ];
+
+// Image mapping for original messages
+export const ORIGINAL_MESSAGE_IMAGES: { [key: number]: string[] } = {
+  1: [
+    '/src/assets/Page 7 of 25.png',
+    '/src/assets/Page 8 of 25.png',
+    '/src/assets/Page 9 of 25.png',
+  ],
+  2: [
+    '/src/assets/Page 10 of 25.png',
+    '/src/assets/Page 11 of 25.png',
+    '/src/assets/Page 12 of 25.png',
+  ],
+  3: [
+    '/src/assets/Page 13 of 25.png',
+    '/src/assets/Page 14 of 25.png',
+    '/src/assets/Page 15 of 25.png',
+  ],
+  4: [
+    '/src/assets/Page 3 of 25.png',
+    '/src/assets/Page 4 of 25.png',
+    '/src/assets/Page 22 of 25.png', 
+    '/src/assets/Page 23 of 25.png' 
+  ],
+  5: [
+    '/src/assets/Page 19 of 25.png',
+    '/src/assets/Page 20 of 25.png',
+    '/src/assets/Page 21 of 25.png',
+  ],
+};
 
 // Rationale process steps
 export const PROCESS_STEPS = [
@@ -305,7 +339,7 @@ export const ROLLOUT_STEPS = [
   {
     id: 1,
     title: "Internal Training & Alignment",
-    description: "Ensure all staff understand and can articulate the refined messaging framework.",
+    description: "Ensure all staff understands and can articulate the refined messaging framework.",
     details: [
       "Conduct department-specific training sessions",
       "Create quick reference materials for all staff",

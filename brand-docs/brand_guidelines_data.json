@@ -1,0 +1,695 @@
+{
+  "metadata": {
+    "title": "Endeavor Health Brand Book",
+    "date": "January 2025",
+    "usage": "FOR INTERNAL USE ONLY. DO NOT DISTRIBUTE"
+  },
+  "brandFoundation": {
+    "mission": {
+      "statement": "Help everyone in our communities be their best.",
+      "keywords": {
+        "help": ["Generous", "Humble"],
+        "everyone_in_our_communities": ["Immeasurable", "Patient population", "Providers", "Team members", "Region and Geography"],
+        "be_their_best": ["Quality of life (no matter the stage)", "Health and Wellness", "Proactive and Preventive", "Excellence and Progress"]
+      }
+    },
+    "vision": {
+      "statement": "Safe, seamless and personal. Every person, every time.",
+      "keywords": {
+        "safe": "baseline",
+        "seamless": "remove friction in care",
+        "personal": "human",
+        "every_person_every_time": ["Inclusive", "Community-centric", "Accessible", "Compassion / Empathetic"]
+      }
+    },
+    "values": [
+      {
+        "value": "Act With Kindness",
+        "belief": "Meet people where they are and show empathy through listening",
+        "implications": [
+          "Understand the perspective of others always",
+          "Practice humility and compassion",
+          "Suspend judgment",
+          "Embrace a service-first mindset"
+        ]
+      },
+      {
+        "value": "Earn Trust",
+        "belief": "Act with integrity and accountability to earn and maintain trust",
+        "implications": [
+          "Communicate clearly and often",
+          "Take responsibility for actions",
+          "Get to solutions together through collaboration",
+          "Always do what we say"
+        ]
+      },
+      {
+        "value": "Respect Everyone",
+        "belief": "Champion diversity, equity and inclusion for all through mutual respect",
+        "implications": [
+          "Actively listen to diverse identities, perspectives, and lived experiences",
+          "Create a safe space for all to thrive",
+          "Ensure our actions drive equity for all",
+          "Help everyone feel welcome"
+        ]
+      },
+      {
+        "value": "Build Relationships",
+        "belief": "Develop meaningful connections that have a positive impact on everyone who crosses our path",
+        "implications": [
+          "Listen with care",
+          "Create moments so that others know they are heard and valued",
+          "Recognize and celebrate the wins — big and small",
+          "Work together to create seamless and personal experiences"
+        ]
+      },
+      {
+        "value": "Pursue Excellence",
+        "belief": "Seek out ways to keep learning and growing so we can deliver the best care to all, every time",
+        "implications": [
+          "Stay curious and creative",
+          "Value experimentiation, exploration, innovation and quality in patient-centered care",
+          "Celebrate wins and learn from mistakes",
+          "Courageously challenge the status quo"
+        ]
+      }
+    ],
+    "positioning": {
+      "statement": "Empathy and Expertise. In Action.",
+      "positioningStatement": "We bring together empathy and expertise to deliver a personal healthcare experience — for all.",
+      "themes": [
+        {
+          "theme": "On your terms",
+          "description": "Patient-specific, Start with understanding"
+        },
+        {
+          "theme": "Innovation",
+          "description": "Latest technology, Advancements"
+        },
+        {
+          "theme": "In Action",
+          "description": "An ongoing practice, A visceral and personal experience, In your community"
+        }
+      ]
+    }
+  },
+  "brandExpressions": {
+    "name": {
+      "title": "Our name",
+      "description": "An endeavor represents a collaborative journey; a worthwhile undertaking. As our name indicates, we are boldly setting forth to move healthcare in a new direction. Every day, in moments big and small, we constantly strive, learn and grow with patients to deliver a truly personal healthcare journey."
+    },
+    "manifesto": {
+      "content": "Empathy and Expertise. In Action.\n\nWho says healthcare can't be better?\nOur industry has the sharpest minds and the best technologies.\nBut healthcare still asks patients to compromise between prestigious treatment, and being treated with care.\n\nOur patients demand more.\nOur communities deserve more.\nAt Endeavor Health, we deliver more.\n\nWe lead with empathy and humanity, so healthcare feels personal.\nWe make the time. We build relationships. We treat everyone like family.\n\nWe pursue expertise, so everyone gets world-class care.\nWe stay ahead. We invest in our people.\nWe are relentless in seeking the next breakthrough.\n\nAt Endeavor Health we deliver a personal healthcare experience where world-class treatment never compromises being treated with care.",
+      "note": "The manifesto may be used when defining our brand and sharing our brand story. It is mostly intended for internal audiences."
+    },
+    "personality": {
+      "pillars": [
+        {
+          "name": "The spirit of a challenger",
+          "description": "We call it like we see it: Healthcare can do better for people. We are tenacious and driven, in moments big or small, to deliver that change. We are the first to take action, and the last to quit."
+        },
+        {
+          "name": "The heart of a leader",
+          "description": "At Endeavor Health, we are setting a new standard for healthcare. Because we know what it takes to lead our communities forward—deep empathy, and true expertise. We refuse to compromise or settle for less. And we inspire everyone around us to do the same."
+        }
+      ],
+      "attributes": [
+        {
+          "attribute": "Ambitious",
+          "description": "We aspire to bold heights and never settle for less.",
+          "we_are": "Confident and provocative",
+          "we_are_not": "Cocky or arrogant"
+        },
+        {
+          "attribute": "Determined",
+          "description": "We are relentless in our pursuit and driven to action.",
+          "we_are": "A humble, commited partner",
+          "we_are_not": "Rigid or inflexible"
+        },
+        {
+          "attribute": "Welcoming",
+          "description": "We invest in the outcomes of all we encounter.",
+          "we_are": "Friendly and approachable",
+          "we_are_not": "Folksy or condescending"
+        },
+        {
+          "attribute": "Genuine",
+          "description": "We speak from our heart, and mean what we say.",
+          "we_are": "Grounded and transparent",
+          "we_are_not": "Inconsistent or pretentious"
+        },
+        {
+          "attribute": "Bright",
+          "description": "We are vibrant, positive and believe in a better tomorrow.",
+          "we_are": "Warm and energetic",
+          "we_are_not": "Clichéd or unrealistic"
+        }
+      ]
+    },
+    "toneOfVoice": [
+      {
+        "attribute": "Ambitious",
+        "guidance": "Be inspirational, not competitive",
+        "details": [
+          "Highlight breakthroughs, but don't compare our work to others",
+          "Challenge the status quo, but don't provoke for the sake of it",
+          "Ladder work up to a broader vision—to make healthcare work better"
+        ]
+      },
+      {
+        "attribute": "Determined",
+        "guidance": "Be direct",
+        "details": [
+          "Be declarative; don't hedge",
+          "Lead with the important information; don't add unnecessary flourishes",
+          "Back up ideas with tangible actions"
+        ]
+      },
+      {
+        "attribute": "Welcoming",
+        "guidance": "Be human",
+        "details": [
+          "Use human language, don't use jargon to sound impressive",
+          "Balance the technical and emotional, don't force emotional language that feels artificial",
+          "Use personal stories that are authentic, accurate and unique"
+        ]
+      },
+      {
+        "attribute": "Genuine",
+        "guidance": "Be audience-centric, patient-friendly",
+        "details": [
+          "Use language that's simple and accessible to all. Our readability target is 5th to 8th grade, or 10 to 14 years old. This makes content more supportive for users of all cognitive capabilities and more easily understood by non-native English speakers.",
+          "Present information in a way that centers the reader's needs and experiences, rather than our own",
+          "Speak directly to people and open the conversation"
+        ]
+      },
+      {
+        "attribute": "Bright",
+        "guidance": "Imagine a better future",
+        "details": [
+          "Speak to patient outcomes, not just our own work",
+          "Speak with energy and a positive tone, don't rely on clichés or sound formal",
+          "Motivate through optimism rather than fear, but don't lead with humor"
+        ]
+      }
+    ]
+  },
+  "visualIdentity": {
+    "colors": {
+      "primary": {
+        "name": "Endeavor Blue",
+        "hex": "#235FF8",
+        "rgb": "35/95/248",
+        "cmykC": "P109-8C 100/45/0/0",
+        "cmykU": "P109-8U 99/35/0/0",
+        "pantoneC": "285 C",
+        "pantoneU": "285 U",
+        "usage": "Our most prominent color is a vibrant blue that is differentiated within our category and feels both welcoming and trustworthy."
+      },
+      "secondary": [
+        {
+          "name": "Deep Sea",
+          "hex": "#0B1B42",
+          "rgb": "11/27/66",
+          "cmykC": "P103-16C 100/87/0/50",
+          "cmykU": "P103-16U 100/100/0/55",
+          "pantoneC": "2767 C",
+          "pantoneU": "282 U",
+          "usage": "Deep Sea is a dark blue that provides a calming and elevated pairing for our primary, while also asserting authority and strength."
+        },
+        {
+          "name": "Sky Blue",
+          "hex": "#E1F5FC",
+          "rgb": "225/245/252",
+          "cmykC": "P119-1C 23/3/6/0",
+          "cmykU": "P119-1U 25/3/4/0",
+          "pantoneC": "545 C",
+          "pantoneU": "538 U",
+          "usage": "Azure is a supportive neutral base that balances our overall palette."
+        }
+      ],
+      "accent": [
+        {
+          "name": "Tangelo",
+          "hex": "#F15624",
+          "rgb": "241/86/36",
+          "cmykC": "P40-8C 0/76/86/0",
+          "cmykU": "30-8U 0/74/100/0",
+          "pantoneC": "1665 C",
+          "pantoneU": "Orange 021 U",
+          "usage": "Tangelo is used to connote positivity, happiness and energy."
+        },
+        {
+          "name": "Sunglow",
+          "hex": "#FFCF30",
+          "rgb": "255/207/48",
+          "cmykC": "P7-8C 0/16/100/0",
+          "cmykU": "P4-8U 0/6/100/0",
+          "pantoneC": "123C",
+          "pantoneU": "7404 U",
+          "usage": "Sunglow is used to connote positivity, happiness and energy. When incorporating Sunglow it's important to note that it can also convey caution and safety in certain contexts."
+        }
+      ],
+      "tints": {
+        "endeavorBlue": [
+          {"percentage": "70%", "hex": "#56668C"},
+          {"percentage": "50%", "hex": "#91AFFC"},
+          {"percentage": "30%", "hex": "#ABB3C6"},
+          {"percentage": "20%", "hex": "#D3DFFE"},
+          {"percentage": "10%", "hex": "#E7E9EF"},
+          {"percentage": "5%", "hex": "#F3F7FF"},
+          {"percentage": "5%", "hex": "#F2F3F5"},
+          {"percentage": "2.5%", "hex": "#F9FBFF"}
+        ],
+        "tangelo": [
+          {"percentage": "60%", "hex": "#F79A7C"},
+          {"percentage": "5%", "hex": "#FEF6F3"}
+        ],
+        "sunglow": [
+          {"percentage": "50%", "hex": "#FFE697"},
+          {"percentage": "20%", "hex": "#FFF5D6"},
+          {"percentage": "5%", "hex": "#fffae9"}
+        ]
+      },
+      "usage": {
+        "guidelines": [
+          "We always lead with Endeavor Blue because its vibracy makes it a powerful brand signal",
+          "Our secondary Azure and Deep Sea were selected to compliment Endeavor Blue",
+          "Our accents and tints can be used when more color is needed beyond Endeavor Blue",
+          "Gradients can be used in backgrounds, but only using tint values, never full values"
+        ],
+        "misusage": [
+          "Do not use Endeavor blue as a background color behind long blocks of text",
+          "Do not use accent colors prominently",
+          "Except for illustrations, do not use more than 3 colors in a given composition",
+          "Avoid using accent colors on top of Endeavor blue",
+          "Do not use low-contrast color combinations for text and background colors",
+          "Never use legacy colors or add new colors to our brand color palette"
+        ]
+      }
+    },
+    "typography": {
+      "primary": {
+        "name": "ES Klarheit Grotesk",
+        "description": "Our primary typeface is a sans serif chosen for its approachability and precision. It is used prominently throughout all of our typographic expressions, including our logo system.",
+        "approved_weights": ["Light", "Light Italic", "Book", "Book Italic", "Medium", "Medium Italic", "Bold", "Bold Italic"],
+        "usage": "For headers, body copy, eyebrow text, buttons/links"
+      },
+      "secondary": {
+        "name": "Spectral",
+        "description": "Spectral is an open source serif available on Google Fonts. We use it ocassionally to add texture or clarity to typographic hierarchy.",
+        "approved_weights": ["Light", "Light Italic", "Regular", "Italic"],
+        "usage": "For subheaders and accent text"
+      },
+      "alternate": {
+        "name": "DM Sans",
+        "description": "DM Sans may be used instead of ES Klarheit when licensing is an issue. DM Sans is an open source sans serif available on Google Fonts.",
+        "approved_weights": ["Light", "Light Italic", "Regular", "Italic", "Medium", "Medium Italic", "Bold", "Bold Italic"],
+        "note": "While DM Sans is similar to ES Klarheit, it lacks some of the latter's differentiating qualities and expressive glyphs. This is why we use it only when necessary."
+      },
+      "system_fonts": {
+        "ms_office": {
+          "primary": "Franklin Gothic Book, Franklin Gothic Medium",
+          "secondary": "Book Antiqua Regular, Book Antiqua Italic"
+        },
+        "generic": {
+          "primary": "Helvetica (or Arial)",
+          "secondary": "Times New Roman"
+        },
+        "note": "These fonts may be used for internal communications ONLY, with the exception of email."
+      },
+      "type_hierarchy": {
+        "header1": {
+          "font": "ES Klarheit Light",
+          "line_height": "106%",
+          "letter_spacing": "-3%"
+        },
+        "header2": {
+          "font": "Spectral Light",
+          "line_height": "111%",
+          "letter_spacing": "-4.5%"
+        },
+        "eyebrow": {
+          "font": "ES Klarheit Bold",
+          "line_height": "1 line max",
+          "letter_spacing": "8%"
+        },
+        "body_copy": {
+          "font": "ES Klarheit Book",
+          "line_height": "137%",
+          "letter_spacing": "3%"
+        },
+        "buttons_links": {
+          "font": "ES Klarheit Bold",
+          "line_height": "1 line max",
+          "letter_spacing": "0%"
+        }
+      },
+      "misusage": [
+        "Do not mix ES Klarheit and DM Sans at the same level of type hierarchy in the same layout.",
+        "Never use bold weights of Spectral or serif analogs.",
+        "Do not use Spectral or other serifs for body copy.",
+        "Don't mix cases. Don't mix text alignments.",
+        "Do not use bold weights of ES Klarheit (or sans serif analogs) for primary headers or body copy.",
+        "Do not use low-contrast color combinations for text and background colors."
+      ]
+    },
+    "logos": {
+      "primary_logos": {
+        "horizontal": {
+          "description": "Optimal for center and left alignment and for long, narrow spaces",
+          "colors": "Logos may appear in 2 color or all black or reverse out white but never in all blue."
+        },
+        "stacked": {
+          "description": "Optimal for left alignment and for small-scale applications when the composition is square",
+          "colors": "Logos may appear in 2 color or all black or reverse out white but never in all blue."
+        },
+        "icon": {
+          "description": "Our Endeavor 'E' icon is the simplest representation of our brand, signaling forward momentum. Our icon should only be used on its own when our full logo or name appears within the same physical or digital space."
+        }
+      },
+      "usage_guidelines": {
+        "clear_space": "Make sure clear space surrounds the logo in all applications. The clear space must be at least 2x the height of the stroke in the Endeavor 'E' icon. More clear space is always better.",
+        "minimum_sizes": "Follow minimum sizes to maintain legibility at small scales.",
+        "forbidden_changes": [
+          "Do not stretch or distort",
+          "Do not use unapproved colors",
+          "Do not rotate",
+          "Do not outline",
+          "Do not apply shadows or effects",
+          "Do not apply patterns"
+        ],
+        "forbidden_layouts": [
+          "Do not lock up departments or other words with our primary logos or sub-brand treatments in any applications or contexts",
+          "When using the deconstructed icon as a background element, do not use high contrast color combinations",
+          "Do not right align our horizontal logo, our stacked logo or our sub-brand treatments",
+          "Do not outline",
+          "Do not lock up departments or other words with our icon in any applications or contexts",
+          "The deconstructed icon is a graphic device, not a pattern. Do not use more than 3 of the bars of our Endeavor 'E' icon at once."
+        ],
+        "image_backgrounds": {
+          "dos": ["Place logo on backgrounds where there is sufficient contrast between logo and background."],
+          "donts": [
+            "Do not place the logo on backgrounds that make it difficult to read or obstruct primary subject matter",
+            "Do not place or use over busy imagery, graphics or backgrounds.",
+            "Do not use floating boxes or screens over the logo."
+          ],
+          "note": "Only black and white versions of the logo can appear on photographs."
+        }
+      },
+      "key_guideline": "The master brand, Endeavor Health, is always the primary lead logo. Health system departments and services will be branded under accepted logos only. No additional logos may be created for departments, programs, affinity groups, events, awareness days or training programs."
+    },
+    "graphic_elements": {
+      "iconography": {
+        "wayfinding_icons": {
+          "description": "To create wayfinding icons, use Google's Material Symbols or the Streamline HQ icon library with rounded corners and high-contrast brand colors.",
+          "usage": "For interfaces and signage applications",
+          "guidelines": [
+            "Use highly recognizable symbols and/or pair with text that reinforces their meaning",
+            "Prioritize using a blue stroke. Only use a circular background if needed for legibility"
+          ],
+          "misusage": [
+            "Do not vary the thickness or scale of icons within the same application",
+            "Do not use symbols that may be difficult for people to understand without clear text descriptions",
+            "Do not use low-contrast color combinations",
+            "Do not use forbidden color combinations for iconography"
+          ],
+          "color_combinations": [
+            {"stroke": "#235FF8", "background": null},
+            {"circle": "#235FF8", "stroke": "#FFFFFF", "background": "#F2F3F5"},
+            {"circle": "#E1F5FC", "stroke": "#235FF8", "background": "#235FF8"},
+            {"circle": "#FFCF30", "stroke": "#0B1B42", "background": "#0B1B42"},
+            {"circle": "#0B1B42", "stroke": "#FFFFFF", "background": "#91AFFC"}
+          ]
+        },
+        "illustrative_icons": {
+          "description": "For communications where creating illustrations or using photography is not feasible, a special treatment may be applied to icons to create more expressive artwork.",
+          "usage": "For narrative and editorial applications",
+          "guidelines": [
+            "Use illustrative icons in bespoke social media assets",
+            "Use illustrative icons to enrich our graphic presence in title cards"
+          ],
+          "misusage": [
+            "Do not use full-value colors in illustrative icons backgrounds (with the exception of Azure)",
+            "Do not use illustrative icons to describe behaviors or actions. Use wayfinding icons instead"
+          ],
+          "example_uses": [
+            "Mission", "Vision", "Clinical trials", "Hospitals", "Patients", "Care sites", 
+            "Admissions", "Team members", "Registered nurses", "Employed physicians"
+          ]
+        }
+      },
+      "edgegon": {
+        "description": "The 'Edgegon' is a graphic element that is used for: Text boxes, Call to action boxes, Photo frames. The 'Edgegon' can be any length, height and color as long as you follow the color guidelines. Rounded edges should always mimic the Endeavor Icon."
+      },
+      "endeavor_edge": {
+        "description": "The Endeavor Edge is an element of the Endeavor Icon that is used primarily to frame a page, add graphical movement or accent other graphics."
+      },
+      "illustration_artwork": {
+        "description": "Like our photography, our illustrations celebrate life. We use custom illustration art that captures lived experiences relevant to healthcare. Our library of custom illustrations has been specifically created for Endeavor Health to reflect our unique brand.",
+        "restriction": "NO CLIP ART or STOCK illustration should be used."
+      }
+    },
+    "photography": {
+      "creative_approach": {
+        "description": "Our photography celebrates life. We create images that are joyful, storied, meaningful and inspiring. Our documentarian approach focuses on capturing lived experiences and genuine emotion instead of the sterile environments and canned expressions that dominate healthcare photography.",
+        "note": "Original photography is strongly encouraged. Stock photography is allowed only when original photography is not available."
+      },
+      "style": {
+        "light_and_color": {
+          "description": "Overall, our photography features a subtle warm hue, natural light, saturated colors and high contrast. Our imagery should feel true to life, so it shouldn't look like there's a yellow filter or artificially enhanced colors. Use cool tones to balance the image."
+        },
+        "composition": {
+          "depth_of_field": {
+            "description": "We use depth of field to create immersive compositions that draw viewers in. Varying focal distance and using out-of-focus foreground elements contribute to our documentarian look and feel where viewers are part of the action.",
+            "caution": "Use this technique sparingly."
+          },
+          "varied_angles": {
+            "description": "Our photography embraces imperfection and serendipity, which means that we use tilted backgrounds and unconventional perspectives. Canted backgrounds should be used sparingly as a technique to highlight figures within compositions.",
+            "caution": "Use this technique sparingly."
+          }
+        },
+        "people_and_attire": {
+          "description": "Representing our diverse community and team members is a priority. This means we show different ages, abilities, genders, sexual orientations, races, ethnicities, bodies, geographies, cultures and religions within our photography. Surveys suggest that patients associate lab coats with trustworthiness. However, we let individual style shine through, too. Patient clothing and accessories should reflect personalities and unique experiences."
+        },
+        "studio_headshots": {
+          "guidelines": [
+            "Room should be left around the shoulders and head so that subjects do not get cropped on either side of the frame. All photos maintain consistency with one another.",
+            "Use actual physical backdrop (not green screen) to create an authentic feeling and truer color. Do not use greenscreen cut-out effects"
+          ],
+          "background": "Sky Blue Savage #02 Seamless Background Paper"
+        },
+        "misusage": [
+          "Do not use low-contrast lighting or low-resolution imagery",
+          "Do not use artifically colored lights",
+          "Do not use cool artificial lighting",
+          "Do not use dark backgrounds or lighting",
+          "Do not use or create photo collages or illustrations that do not follow our guidelines",
+          "Do not use stark white backgrounds",
+          "Do not shoot locations at night"
+        ]
+      },
+      "subject_categories": {
+        "empathy_in_action": {
+          "patient_lifestyle": {
+            "description": "Patients flourishing as an outcome of our expert care",
+            "qualities": ["Range of wellness scenarios", "Behind-the-scenes moments", "Natural expressions & poses", "Caring", "Inspiring", "Confident"]
+          },
+          "patients_in_care_settings": {
+            "description": "Patients experiencing best-in-class care delivered with empathy",
+            "qualities": ["Meaningful connections", "Positive experiences", "Candid expressions", "Overcoming obstacles", "Tenderness", "Supportive"]
+          }
+        },
+        "expertise_in_action": {
+          "team_members": {
+            "description": "Providing care and collaborating",
+            "qualities": ["Exceeding expectations", "Focused and engaged", "Collaborative", "Natural expressions", "Passionate", "Positive", "Professional yet approachable"]
+          },
+          "technology_innovation": {
+            "description": "Team members in research and innovation contexts",
+            "qualities": ["Collaborative", "Process-driven", "Candid and documentarian", "Exciting behind-the-scenes content", "Always shows people", "Team members in action"]
+          }
+        },
+        "locations": {
+          "description": "Our buildings, grounds, and interiors",
+          "qualities": ["Sunny", "Spacious", "Aerials", "Landscapes in foreground", "Windows and sunlight", "Focus on patient amenities", "Airy and expansive common spaces"]
+        }
+      },
+      "subject_misusage": [
+        "Do not stage happiness",
+        "Avoid showing graphic or emergency scenarios",
+        "Do not use stock photo still lives",
+        "Do not overly dramatize symptoms",
+        "Do not depict team members as aloof",
+        "Do not use unrelated subject matter to illustrate concepts",
+        "Do not use posed lifestyle imagery",
+        "Do not show close-ups of machines and technology without people",
+        "Do not create staged depictions of expertise that appear stock-like"
+      ]
+    }
+  },
+  "brandArchitecture": {
+    "principles": [
+      {
+        "principle": "Make it seamless",
+        "description": "Design a radically simple system that centers patients and is easy to navigate",
+        "implications": [
+          "Prioritize everyday language over technical jargon",
+          "Prioritize fewer choices over too many choices"
+        ]
+      },
+      {
+        "principle": "Support masterbrand",
+        "description": "Drive competitive differentiation in the market through a strong masterbrand",
+        "implications": [
+          "Nomenclature is fixed, but application is flexible",
+          "Masterbrand is always highlighted most prominently (scale of logo, first in information hierarchy)"
+        ]
+      },
+      {
+        "principle": "Go for growth",
+        "description": "Develop a flexible system that supports our ambitions for growth",
+        "implications": [
+          "Editable directory is included for ongoing management of brand architecture application",
+          "Governance guidance and criterias are included for future growth scenarios"
+        ]
+      }
+    ],
+    "masterbrand": {
+      "description": "We lead with a dominant masterbrand",
+      "implications": [
+        "Masterbrand is always the primary logo for the organization",
+        "Clinical Institutes are sub-brands that will have their own logo lockups",
+        "Outpatient location names will follow the same structure when they have consistent offerings to ensure clear navigation throughout the system",
+        "In copy, use the full name for first reference and on second reference, you may drop Endeavor Health. For example, first reference: 'Endeavor Health Evanston Hospital' and second reference: 'Evanston Hospital.'"
+      ],
+      "examples": [
+        {"type": "Hospitals", "example": "Endeavor Health Evanston Hospital"},
+        {"type": "Clinical Institutes", "example": "Endeavor Health Cardiovascular Institute"},
+        {"type": "Outpatient Locations", "example": "Endeavor Health Immediate Care*, Endeavor Health Health Center & Immediate Care*"}
+      ],
+      "notes": [
+        "*A location identifier, such as the suburb, neighborhood or street, is used for website navigation and for listings on search engines only. Examples include:",
+        "• Endeavor Health Health Center - Downers Grove",
+        "• Endeavor Health Immediate Care - Skokie Commons",
+        "• Endeavor Health Health Center & Immediate Care - Bolingbrook"
+      ]
+    },
+    "specialty_programs": {
+      "structure": "Endeavor Health + Discipline name + Institute",
+      "description": "As sub-brands, Clinical Institutes have their own dedicated suite of programs that can be accessed at hospitals and outpatient locations.",
+      "implications": [
+        "Locations are deprioritized in favor of subspecialty services to build equity in services that can be accessed across the system rather than a single physical location."
+      ],
+      "examples": {
+        "institute": "Endeavor Health Cardiovascular Institute",
+        "subspecialties": [
+          "Heart Failure Program",
+          "Structural Heart Program",
+          "Congenital Heart Disease Program"
+        ]
+      },
+      "outpatient_locations": {
+        "structure": "Program name + Center",
+        "example": "Endeavor Health Cardiovascular Institute Structural Heart Center",
+        "implications": [
+          "All outpatient locations across the system will adopt 'Center' as a standardized suffix.",
+          "The use of 'Clinic' will be retired due to poor performance in patient testing.",
+          "If a program is available at a multi-specialty location (e.g., AFib Clinic) it should use the suffix 'Program' or 'Service' on internal wayfinding and directories, while external signage reflects the entire site and always uses 'Center.'"
+        ]
+      }
+    },
+    "offsite_locations": {
+      "structure": "Endeavor Health + Type of Off-Site Location",
+      "description": "Offsite location names are streamlined to ensure seamless patient navigation.",
+      "exceptions": "Immediate Care / Remote Care / Pharmacy / Lab will not use 'Center' suffix. Health Centers co-located with Immediate Care use Health Center & Immediate Care.",
+      "implications": [
+        "Most multi-service line locations adopt the name 'Health Center.'",
+        "Medical Groups are only signaled on internal wayfinding or lab coats, as applicable, not on external signage.",
+        "If a program is available at a multi-specialty location (e.g., AFib Clinic) it should use the suffix 'Program' or 'Service' on internal wayfinding and directories. 'Clinic' is not being widely used.",
+        "All outpatient locations across the system adopt 'Center' as a standardized suffix."
+      ],
+      "location_types": [
+        {
+          "type": "Multi-Service Location/Scheduled Appointments",
+          "names": ["Medical Group", "Medical Office Building", "Outpatient Care Center", "Health Center"],
+          "branding": "Endeavor Health Health Center",
+          "description": "A single physical location that offers multiple levels of service lines in one location."
+        },
+        {
+          "type": "Multi-Service Location/Immediate Care",
+          "branding": "Endeavor Health Immediate Care",
+          "description": "Immediate Care Centers provide convenient and responsive medical care for non-emergencies requiring prompt medical attention."
+        },
+        {
+          "type": "Support Services + Remote Care",
+          "names": ["Fitness Center", "Galter Life Center", "Pharmacy", "Remote Care"],
+          "branding": "Endeavor Health Fitness & Wellness Center",
+          "description": "Stand-alone non-physician locations that offer one-off services."
+        }
+      ]
+    }
+  },
+  "applications": {
+    "business_cards": {
+      "description": "Do not add quotes, social accounts, or other personal information.",
+      "ordering": "To order, please follow the ordering instructions for business cards found on the Brand Resource Center."
+    },
+    "stationery": {
+      "description": "Letterhead and envelopes",
+      "ordering": "To order letterhead and stationery, please go to the Brand Resource Center and follow the ordering instructions for letterhead and stationary."
+    },
+    "email_signature": {
+      "description": "Do not add quotes, social accounts, or other personal information.",
+      "access": "To download your email signature, please visit the Brand Center on the MyEndeavor employee website."
+    },
+    "templates": {
+      "types": ["Flyers", "Power Point", "Agenda", "Memo", "Meeting Minutes"],
+      "access": "To download the templates, please visit the Brand Center on the MyEndeavor employee website."
+    },
+    "promotional_items": {
+      "description": "Promotional items and branded merchandise can be ordered from our Endeavor Health Brand Store at endeavorhealthstore.org. You may place individual orders using a personal credit card, or you may use a PO to purchase bulk items for community events, special programs and other initiatives covered by your department's budget.",
+      "approval_process": "The Marketing Brand Team must review and approve any artwork and promotional items ordered through the Brand Store or any outside vendor. Please submit your artwork to the Brand Team at brandhelp@eehealth.org. Please allow 2-3 business days for artwork and promotional items to be reviewed."
+    }
+  },
+  "key_guidelines": [
+    {
+      "number": 1,
+      "guideline": "The master brand, Endeavor Health, is always the primary lead logo.",
+      "details": [
+        "Health system departments and services will be branded under accepted logos only.",
+        "No additional logos may be created for departments, programs, affinity groups, events, awareness days or training programs.",
+        "Horizontal masterbrand logo is preferred but use the version that best fits the space."
+      ]
+    },
+    {
+      "number": 2,
+      "guideline": "Our brand architecture and nomenclature follow a hierachy whereby Endeavor Health always appears first before hospital, institute or specialty name.",
+      "details": [
+        "Do not add \"at Endeavor Health\" as a dangler indentifier in naming conventions",
+        "In first reference in body copy, use the complete brand name (Endeavor Health Edward Hospital) and in second and subsequent references, drop Endeavor Health and refer to entity only."
+      ]
+    },
+    {
+      "number": 3,
+      "guideline": "Our brand colors represent one unified health system by balancing our bold Endeavor primary blue with welcoming, warm secondary colors.",
+      "details": [
+        "No other colors, gradients or color combinations may be used."
+      ]
+    },
+    {
+      "number": 4,
+      "guideline": "The approved primary brand font is ES Klarheit Grotesk. You may use DM Sans when licensing is an issue.",
+      "details": [
+        "The Franklin Gothic font is also an acceptable substitution with use of Microsoft Office programs."
+      ]
+    },
+    {
+      "number": 5,
+      "guideline": "ALL uses of the Endeavor Health logo must be approved by the Brand Team.",
+      "details": [
+        "To request a rebrand or brand review of new materials, please contact the Brand Team at brandhelp@eehealth.org."
+      ]
+    }
+  ]
+}

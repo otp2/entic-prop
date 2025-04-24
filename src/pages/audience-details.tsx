@@ -3,17 +3,23 @@ import { AudienceTabs } from '@/components/audience/audience-tabs';
 import { useEffect, useState } from 'react';
 
 export function AudienceDetailsPage() {
-  const [selectedMessage, setSelectedMessage] = useState<string | undefined>(undefined);
-  
-  // Handle hash change for direct linking
+  const [selectedCoreMessageId, setSelectedCoreMessageId] = useState<string | undefined>(undefined);
+
+  // Handle hash change for direct linking to core messages
   useEffect(() => {
     const handleHashChange = () => {
       const hash = window.location.hash;
-      if (hash.startsWith('#message-')) {
-        const messageId = hash.replace('#message-', '');
-        setSelectedMessage(messageId);
+      // Match hashes like #core-message-1, #core-message-2, etc.
+      if (hash.startsWith('#core-message-')) {
+        const messageId = hash.replace('#core-message-', '');
+        // Ensure the messageId is a valid number (or handle as needed)
+        if (!isNaN(Number(messageId))) {
+          setSelectedCoreMessageId(messageId);
+        } else {
+          setSelectedCoreMessageId(undefined);
+        }
       } else {
-        setSelectedMessage(undefined);
+        setSelectedCoreMessageId(undefined);
       }
     };
 
@@ -25,17 +31,17 @@ export function AudienceDetailsPage() {
   return (
     <div className="space-y-12">
       <div className="space-y-4 text-center">
-        <div className="space-y-4">
-          <PageHeader 
-            title="Audience Details" 
-            description="Message adaptations for each audience"
-            className="mx-auto max-w-3xl"
-          />
-        </div>
+        <PageHeader 
+          title="Audience Details" 
+          className="mx-auto max-w-3xl"
+        />
+        <p className="mx-auto max-w-2xl text-muted-foreground">
+          Breaking down how each core message should be communicated to our four key audiences: patients, primary care providers, therapists & counselors, and internal staff.
+        </p>
       </div>
 
       <div className="max-w-5xl mx-auto w-full">
-        <AudienceTabs selectedMessage={selectedMessage} />
+        <AudienceTabs selectedCoreMessageId={selectedCoreMessageId} />
       </div>
     </div>
   );

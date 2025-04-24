@@ -11,6 +11,7 @@ export default {
     extend: {
       fontFamily: {
         sans: ['DM Sans', 'sans-serif'],
+        serif: ['Spectral', 'serif'],
       },
       borderRadius: {
         lg: 'var(--radius)',
